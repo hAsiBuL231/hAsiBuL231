@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasibulhossain3251/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://www.youtube.com/@Mr.Rezvi123" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="https://www.facebook.com/Mr.Rezvi/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-  <a href="https://www.instagram.com/hossainmd.hasibul/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram.png"/></a>
-  <a href="+8801811989292" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
-</p>
 
 <!-- Banner (optional, you can design a banner and upload to repo, then link here) -->
 <!-- <img src="banner.png" alt="MD Hasibul Hossain" width="100%"/> -->
@@ -91,4 +84,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hAsiBuL231&layout=compact&theme=transparent" height="180"/>
 </p>
 
+---
 
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasibulhossain3251/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.youtube.com/@Mr.Rezvi123" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="https://www.facebook.com/Mr.Rezvi/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+  <a href="https://www.instagram.com/hossainmd.hasibul/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram.png"/></a>
+  <a href="+8801811989292" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+</p>
